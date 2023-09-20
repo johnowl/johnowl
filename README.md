@@ -3,7 +3,8 @@
 - 🏠  My name is João Paulo and I'm a Brazilian living in the Nederlands
 - 🌱  I’m currently learning Kotlin, GraalVM and Micronaut
 - 📫  How to reach me: https://twitter.com/john_owl
-- 📄  My Blog in portuguese http://blog.johnowl.com/ 
+- 📄  My Blog in portuguese http://blog.johnowl.com/
+- 📄  My Blog in English [http://blog.johnowl.com/](https://medium.com/@johnowl) 
 
 ### My projects
 - [Feature toggle system written in Kotlin](https://github.com/johnowl/owl-rules)
