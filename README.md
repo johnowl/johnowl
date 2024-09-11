@@ -9,17 +9,11 @@
 ### My projects
 - [Feature toggle system written in Kotlin](https://github.com/johnowl/owl-rules)
 
-### Últimos posts do meu blog
+### Latest posts on my blog
 
-- [Micronaut Data JDBC agora suporta coroutines](https://blog.johnowl.com/micronaut-data-jdbc-agora-suporta-coroutines/)
-- [Tratamento de exceções no Micronaut](https://blog.johnowl.com/tratamento-de-excecoes-no-micronaut/)
-- [Micronaut vs Spring](https://blog.johnowl.com/micronaut-vs-spring/)
-- [Como usar Redis com Micronaut, Kotlin e coroutines](https://blog.johnowl.com/como-usar-redis-com-micronaut-kotlin-e-coroutines/)
-- [Kotlin, Micronaut, MongoDB e Coroutines](https://blog.johnowl.com/kotlin-micronaut-mongodb-e-coroutines/)
-- [Como usar o Micronaut Data JDBC](https://blog.johnowl.com/como-usar-o-micronaut-data-jdbc/)
-- [Apresentando o Micronaut Data](https://blog.johnowl.com/apresentando-o-micronaut-data/)
-- [Kotlin no backend. O Java vai morrer?](https://blog.johnowl.com/kotlin-no-backend-o-java-vai-morrer/)
-- [Como não bloquear o event loop do Micronaut usando coroutines](https://blog.johnowl.com/como-nao-bloquear-o-event-loop-do-micronaut/)
-- [Teste de carga como código usando Gatling](https://blog.johnowl.com/teste-de-carga-como-codigo-usando-gatling/)
-- [Perguntas e respostas sobre injeção de dependência no Micronaut](https://blog.johnowl.com/perguntas-e-respostas-sobre-injecao-de-dependencia-no-micronaut/)
-- [Como funciona a injeção de dependência no Micronaut](https://blog.johnowl.com/como-funciona-a-injecao-de-dependencia-no-micronaut/)
+- [Minimal API Gateway with Spring Boot](https://medium.com/wearewaes/minimal-api-gateway-with-spring-boot-cd52f56c576a)
+- [Throwing exceptions in Kotlin](https://medium.com/wearewaes/throwing-exceptions-in-kotlin-8d7bb16a7b66)
+- [Ephemeral environments for your Spring Boot API tests](https://medium.com/wearewaes/ephemeral-environments-for-your-spring-boot-api-tests-2dd84a1cab22)
+- [Running a Kotlin DSL from an external file](https://medium.com/wearewaes/running-a-kotlin-dsl-from-an-external-file-c4f83153aa60)
+- [Avoid Primitive Obsession in Kotlin with zero-cost abstractions](https://medium.com/wearewaes/avoid-primitive-obsession-in-kotlin-with-zero-cost-abstractions-613e2646e755)
+
