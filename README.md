@@ -4,7 +4,7 @@
 - 🌱  I’m currently learning Kotlin, GraalVM and Micronaut
 - 📫  How to reach me: https://twitter.com/john_owl
 - 📄  My Blog in portuguese http://blog.johnowl.com/
-- 📄  My Blog in English [http://blog.johnowl.com/](https://medium.com/@johnowl) 
+- 📄  My Blog in English [https://medium.com/@johnowl](https://medium.com/@johnowl) 
 
 ### My projects
 - [Feature toggle system written in Kotlin](https://github.com/johnowl/owl-rules)
