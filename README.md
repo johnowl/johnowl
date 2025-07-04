@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏠  My name is João Paulo and I'm a Brazilian living in the Nederlands
+- 🏠  My name is João Paulo and I'm a Brazilian living in the Netherlands
 - 🌱  I’m currently learning Kotlin, GraalVM and Micronaut
 - 📫  How to reach me: https://twitter.com/john_owl
 - 📄  My Blog in portuguese http://blog.johnowl.com/
