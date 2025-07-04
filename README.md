@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏠  My name is João Paulo and I'm a Brazilian living in the Netherlands
-- 🌱  I’m currently learning Kotlin, GraalVM and Micronaut
+- 🌱  I’m currently working in a Platform Team, we are creating a product to reduce cognitive load from our engineers.
 - 📫  How to reach me: https://twitter.com/john_owl
 - 📄  My Blog in portuguese http://blog.johnowl.com/
 - 📄  My Blog in English [https://medium.com/@johnowl](https://medium.com/@johnowl) 
